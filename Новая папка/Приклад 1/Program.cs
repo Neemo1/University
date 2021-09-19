@@ -6,13 +6,13 @@ namespace ProgramCod
     {
         static void Main(string[] args)
         {
-            /*Console.WriteLine("Приклад 1. Коментарі");
+            Console.WriteLine("Приклад 1. Коментарі");
             string message = "Hello World!"; // лінійний коментар 
             Console.WriteLine(message); 
             *//* 
              багатолінійний коментар
              *//*
-            Console.ReadKey();*/
+            Console.ReadKey();
 
          }
 
